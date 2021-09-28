@@ -20,7 +20,7 @@ const DashBoard = () => {
                                 alala = mydata.timeframes[currentimeFrame]
                             }
                             return (
-                        <div className="rounded-lg flex  lg:h-auto h-56 work relative">
+                        <div className={`rounded-lg flex  lg:h-auto h-56  relative ${mydata.title.toLowerCase()}`}>
                             <img src={mydata.img}  className= "right-4  opacity-50 absolute" alt="" />
                             <WorkCard data = {mydata} timeframe = {alala} />
                         </div>
