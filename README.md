@@ -8,15 +8,11 @@ This is a solution to the [Time tracking dashboard challenge on Frontend Mentor]
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
+
 
 ## Overview
 
@@ -30,17 +26,17 @@ Users should be able to:
 
 ### Screenshot
 
-![](./ScreenShot_time.jpeg)
+![](../image/ScreenShot_time.jpeg)
 
 
 
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution Url](https://github.com/strevo199/Time-tracking-dashboard.git)
+- Live Site URL: [live site URL](https://your-live-site-url.com)
 
 
 ### Built with
@@ -54,14 +50,11 @@ Users should be able to:
 - [React](https://reactjs.org/) - JS library
 - [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 
 
 ## Author
 
-- Website - [Stephen Mgbeojikwe](https://www.your-site.com)
+- Website - [Stephen Mgbeojikwe](https://strevo199.github.io/myportfolio/)
 - Frontend Mentor - [@strevo199](https://www.frontendmentor.io/profile/strevo199)
-<!-- - Twitter - [@yourusername](https://www.twitter.com/yourusername) -->
 
 
