@@ -1,0 +1,34 @@
+.app{
+  height: 100vh;
+  display: flex;
+  }
+
+.dashBoard{
+  flex: 1;
+  background-color: hsl(226, 43%, 10%);
+}
+
+.userinfro,.workcard{
+  background-color: hsl(235, 46%, 20%);
+}
+.userinfromain{
+  background-color: hsl(246, 80%, 60%);
+}
+.work{
+  background-color: rgb(255, 140, 102);
+}
+.play{
+  background-color: hsl(195, 74%, 62%);
+}
+.study{
+  background-color:hsl(348, 100%, 68%);
+}
+.exercise{
+  background-color: hsl(145, 58%, 55%);
+}
+.social{
+  background-color: hsl(264, 64%, 52%);
+}
+.self-care{
+  background-color: hsl(43, 84%, 65%);
+}
