@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution Url](https://github.com/strevo199/Time-tracking-dashboard.git)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://hardcore-villani-edc63e.netlify.app/)
 
 
 ### Built with
